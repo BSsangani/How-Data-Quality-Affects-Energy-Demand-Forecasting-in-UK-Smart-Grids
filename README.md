@@ -1,6 +1,6 @@
 # How Data Quality Affects Energy Demand Forecasting in UK Smart Grids
 
-**Author:** Bhavin Sanjaybhai Sangani (P2957969)
+**Author:** Bhavin Sanjaybhai Sangani
 **Module:** CSIP5402 – Project Proposal, Planning & Project Management
 
 ## Overview
